@@ -12,7 +12,7 @@
 
 #explore {
     text-align: center;
-    margin: 0 10%;
+    /*margin: 0 10%;*/
 }
 
 #explore #exploreTitle {
@@ -36,8 +36,12 @@
     /*border: 1px solid #7d7a79;*/
     display: block;
 }
-li {
+#explore li {
     border: 1px solid black;
     margin: 1em;
     padding: 1em;
+
+
+
+    background-color: rgba(15,73,161,0.2);
 }

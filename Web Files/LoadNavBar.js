@@ -2,7 +2,7 @@
 
 var navBarText = "<header>\n\
 \t<div id='title'>\n\
-\t\t<h1><a href='index.html'>SPSInteractive</a></h1>\n\
+\t\t<h1><a href='index.html'></a></h1>\n\
 \t</div>\n\
 \t<nav>\n\
 \t\t<ul>\n\

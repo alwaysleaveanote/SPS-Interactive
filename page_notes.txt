@@ -1,0 +1,4 @@
+dark blue: #0F49A1	rbg(15,73,161)
+light blue: #3866AD	rbg(56,102,173)
+dark orange: #3866AD	rbg(244,149,50)
+light orange: #F8BE7C 	rbg(248,190,124)
