@@ -1,3 +1,7 @@
+body { 
+    padding-top: 80px; 
+}
+
 #Bio a, #contactInfo a {
     color: #ADD8E6;
 }
