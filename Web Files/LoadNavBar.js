@@ -44,11 +44,13 @@ var navBarText = "<header>\n\
 \t</nav>\n\
 </header>"
 
-var footerText = "<div id='footer'>\n\
-      <div class='container'>\n\
-        <p class='text-muted'>Place sticky footer content here.</p>\n\
-      </div>\n\
-    </footer>"
+var footerText = "<div class='wrapper'>\n\
+            <p id='hidden'>a</p>\n\
+            <div class='push'></div>\n\
+        </div>\n\
+        <div class='footer'>\n\
+            <p>SPSInteractive</p>\n\
+        </div>"
 
 $(document).ready(function() {
     $("body").prepend(navBarText)

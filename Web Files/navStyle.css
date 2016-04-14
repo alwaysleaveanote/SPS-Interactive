@@ -118,7 +118,28 @@ html[xmlns] .clearfix {
 * html .clearfix {
     height: 1%;
 }
-
+* {
+margin: 0;
+}
+html, body {
+height: 100%;
+}
+.wrapper {
+min-height: 100%;
+height: auto !important;
+height: 100%;
+margin: 0 auto -4em;
+}
+.footer, .push {
+height: 4em;
+}
+.footer {
+    background: rgba(15,73,161,0.99);
+    color: white;
+}
+#hidden{
+    color: white;
+}
 
 
 
