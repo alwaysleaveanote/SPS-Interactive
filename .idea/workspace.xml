@@ -2,31 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4342a03a-d554-49f1-a667-79be6a72b814" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Web Files/ContactMe.html" afterPath="$PROJECT_DIR$/Web Files/ContactMe.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Web Files/Explore.html" afterPath="$PROJECT_DIR$/Web Files/Explore.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Web Files/FAQ.html" afterPath="$PROJECT_DIR$/Web Files/FAQ.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Web Files/Visualizations/APIB.html" afterPath="$PROJECT_DIR$/Web Files/Visualizations/APIB.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Web Files/Visualizations/AttendanceZones.html" afterPath="$PROJECT_DIR$/Web Files/Visualizations/AttendanceZones.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Web Files/Visualizations/College.html" afterPath="$PROJECT_DIR$/Web Files/Visualizations/College.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Web Files/Visualizations/Demographics.html" afterPath="$PROJECT_DIR$/Web Files/Visualizations/Demographics.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Web Files/Visualizations/ELL.html" afterPath="$PROJECT_DIR$/Web Files/Visualizations/ELL.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Web Files/Visualizations/FRPL.html" afterPath="$PROJECT_DIR$/Web Files/Visualizations/FRPL.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Web Files/Visualizations/HomePrices.html" afterPath="$PROJECT_DIR$/Web Files/Visualizations/HomePrices.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Web Files/Visualizations/LoadNavBar.js" afterPath="$PROJECT_DIR$/Web Files/Visualizations/LoadNavBar.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Web Files/Visualizations/MYO.html" afterPath="$PROJECT_DIR$/Web Files/Visualizations/MYO.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Web Files/Visualizations/POI.html" afterPath="$PROJECT_DIR$/Web Files/Visualizations/POI.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Web Files/Visualizations/SchoolSize.html" afterPath="$PROJECT_DIR$/Web Files/Visualizations/SchoolSize.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Web Files/Visualizations/TestScoresInDepth.html" afterPath="$PROJECT_DIR$/Web Files/Visualizations/TestScoresInDepth.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Web Files/Visualizations/visStyle.css" afterPath="$PROJECT_DIR$/Web Files/Visualizations/visStyle.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Web Files/css/FAQStyle.css" afterPath="$PROJECT_DIR$/Web Files/css/FAQStyle.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Web Files/css/contactStyle.css" afterPath="$PROJECT_DIR$/Web Files/css/contactStyle.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Web Files/css/exploreStyle.css" afterPath="$PROJECT_DIR$/Web Files/css/exploreStyle.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Web Files/css/indexStyle.css" afterPath="$PROJECT_DIR$/Web Files/css/indexStyle.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Web Files/index.html" afterPath="$PROJECT_DIR$/Web Files/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Web Files/js/LoadNavBar.js" afterPath="$PROJECT_DIR$/Web Files/js/LoadNavBar.js" />
     </list>
     <ignored path="Education Datasets.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -418,6 +394,13 @@
       <option name="number" value="Default" />
       <updated>1432671051820</updated>
     </task>
+    <task id="LOCAL-00001" summary="fixed all the shit">
+      <created>1460752144934</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1460752144934</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -427,6 +410,7 @@
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5113636" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="DB Browser" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="DB Execution Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.059770115" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -458,6 +442,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="fixed all the shit" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixed all the shit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
