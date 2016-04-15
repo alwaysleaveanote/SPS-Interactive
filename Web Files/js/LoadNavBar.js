@@ -5,7 +5,7 @@ var navBarText = "<header>\n\
 \t\t<h1><a href='index.html'></a></h1>\n\
 \t</div>\n\
 \t<nav class = 'navbar-fixed-top'>\n\
-<a class='navbar-brand' href='index.html'>\n\
+<a class='navbar-brand' href='/Web Files/index.html'>\n\
         <img alt='Brand' src='./images/nav_logo.png'>\n\
       </a>\n\
 \t\t<ul>\n\
@@ -45,7 +45,7 @@ var navBarText = "<header>\n\
 \t\t\t<li><a href='ContactMe.html'><p>Contact Me</p></a></li>\n\
 \t\t</ul>\n\
 \t</nav>\n\
-</header>"
+</header>";
 
 var footerText = "<div class='wrapper'>\n\
             <p id='hidden'>a</p>\n\
@@ -53,9 +53,9 @@ var footerText = "<div class='wrapper'>\n\
         </div>\n\
         <div class='footer'>\n\
             <p>SPSInteractive</p>\n\
-        </div>"
+        </div>";
 
 $(document).ready(function() {
-    $("body").prepend(navBarText)
-    $("body").append(footerText)
+    $("body").prepend(navBarText);
+    $("body").append(footerText);
 });

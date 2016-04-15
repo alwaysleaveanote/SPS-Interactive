@@ -2,9 +2,12 @@
 
 var navBarText = "<header>\n\
 \t<div id='title'>\n\
-\t\t<h1><a href='../index.html'>SPSInteractive</a></h1>\n\
+\t\t<h1><a href='../index.html'></a></h1>\n\
 \t</div>\n\
-\t<nav>\n\
+\t<nav class = 'navbar-fixed-top'>\n\
+<a class='navbar-brand' href='../index.html'>\n\
+        <img alt='Brand' src='../images/nav_logo.png'>\n\
+      </a>\n\
 \t\t<ul>\n\
 \t\t\t<li><a href='../index.html'><p>Home</p></a></li>\n\
 \t\t\t<li><a href='../Explore.html'><p>Explore Topics <span class='glyphicon glyphicon-chevron-down'></span></p></a>\n\
@@ -44,6 +47,15 @@ var navBarText = "<header>\n\
 \t</nav>\n\
 </header>";
 
+var footerText = "<div class='wrapper'>\n\
+            <p id='hidden'>a</p>\n\
+            <div class='push'></div>\n\
+        </div>\n\
+        <div class='footer'>\n\
+            <p>SPSInteractive</p>\n\
+        </div>";
+
 $(document).ready(function() {
-    $("body").prepend(navBarText)
+    $("body").prepend(navBarText);
+    $("body").append(footerText);
 });
