@@ -5,7 +5,7 @@ var navBarText = "<header>\n\
 \t\t<h1><a href='index.html'></a></h1>\n\
 \t</div>\n\
 \t<nav class = 'navbar-fixed-top'>\n\
-<a class='navbar-brand' href='/Web Files/index.html'>\n\
+<a class='navbar-brand' href='index.html'>\n\
         <img alt='Brand' src='./images/nav_logo.png'>\n\
       </a>\n\
 \t\t<ul>\n\

@@ -3,15 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="4342a03a-d554-49f1-a667-79be6a72b814" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Web Files/Visualizations/APIB.html" afterPath="$PROJECT_DIR$/Web Files/Visualizations/APIB.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Web Files/Visualizations/AttendanceZones.html" afterPath="$PROJECT_DIR$/Web Files/Visualizations/AttendanceZones.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Web Files/Visualizations/College.html" afterPath="$PROJECT_DIR$/Web Files/Visualizations/College.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Web Files/Visualizations/Demographics.html" afterPath="$PROJECT_DIR$/Web Files/Visualizations/Demographics.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Web Files/Visualizations/ELL.html" afterPath="$PROJECT_DIR$/Web Files/Visualizations/ELL.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Web Files/Visualizations/FRPL.html" afterPath="$PROJECT_DIR$/Web Files/Visualizations/FRPL.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Web Files/Visualizations/HomePrices.html" afterPath="$PROJECT_DIR$/Web Files/Visualizations/HomePrices.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Web Files/Visualizations/POI.html" afterPath="$PROJECT_DIR$/Web Files/Visualizations/POI.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Web Files/index.html" afterPath="$PROJECT_DIR$/Web Files/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Web Files/js/LoadNavBar.js" afterPath="$PROJECT_DIR$/Web Files/js/LoadNavBar.js" />
     </list>
     <ignored path="Education Datasets.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -33,26 +25,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ELL.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Web Files/Visualizations/ELL.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-5.625">
-              <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="FRPL.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Web Files/Visualizations/FRPL.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-6.875">
-              <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="HomePrices.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Web Files/Visualizations/HomePrices.html">
           <provider selected="true" editor-type-id="text-editor">
@@ -93,10 +65,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TestScoresInDepth.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="TestScoresInDepth.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Web Files/Visualizations/TestScoresInDepth.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.2154047">
+            <state vertical-scroll-proportion="-6.875">
               <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
               <folding />
             </state>
@@ -106,8 +78,46 @@
       <file leaf-file-name="APIB.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Web Files/Visualizations/APIB.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-8.75">
-              <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+            <state vertical-scroll-proportion="-17.5">
+              <caret line="28" column="91" selection-start-line="28" selection-start-column="91" selection-end-line="28" selection-end-column="91" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LoadNavBar.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Web Files/js/LoadNavBar.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="25" column="89" selection-start-line="25" selection-start-column="89" selection-end-line="25" selection-end-column="89" />
+              <folding>
+                <marker date="1460752750000" expanded="true" signature="40:2248" placeholder="..." />
+                <marker date="1460752750000" expanded="true" signature="62:116" placeholder="..." />
+                <marker date="1460752750000" expanded="true" signature="154:2235" placeholder="..." />
+                <marker date="1460752750000" expanded="true" signature="200:271" placeholder="..." />
+                <marker date="1460752750000" expanded="true" signature="283:2223" placeholder="..." />
+                <marker date="1460752750000" expanded="true" signature="352:2015" placeholder="..." />
+                <marker date="1460752750000" expanded="true" signature="471:2000" placeholder="..." />
+                <marker date="1460752750000" expanded="true" signature="489:886" placeholder="..." />
+                <marker date="1460752750000" expanded="true" signature="588:867" placeholder="..." />
+                <marker date="1460752750000" expanded="true" signature="904:1413" placeholder="..." />
+                <marker date="1460752750000" expanded="true" signature="1005:1394" placeholder="..." />
+                <marker date="1460752750000" expanded="true" signature="1431:1663" placeholder="..." />
+                <marker date="1460752750000" expanded="true" signature="1533:1644" placeholder="..." />
+                <marker date="1460752750000" expanded="true" signature="1681:1983" placeholder="..." />
+                <marker date="1460752750000" expanded="true" signature="1777:1964" placeholder="..." />
+                <marker date="1460752750000" expanded="true" signature="2291:2385" placeholder="..." />
+                <marker date="1460752750000" expanded="true" signature="2417:2472" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Web Files/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.2154047">
+              <caret line="11" column="93" selection-start-line="11" selection-start-column="93" selection-end-line="11" selection-end-column="93" />
               <folding />
             </state>
           </provider>
@@ -143,7 +153,6 @@
       <list>
         <option value="$PROJECT_DIR$/scraper.py" />
         <option value="$PROJECT_DIR$/Web Files/Visualizations/SchoolSize.html" />
-        <option value="$PROJECT_DIR$/Web Files/js/LoadNavBar.js" />
         <option value="$PROJECT_DIR$/Web Files/Explore.html" />
         <option value="$PROJECT_DIR$/Web Files/css/indexStyle.css" />
         <option value="$PROJECT_DIR$/Web Files/css/exploreStyle.css" />
@@ -164,6 +173,7 @@
         <option value="$PROJECT_DIR$/Web Files/Visualizations/APIB.html" />
         <option value="$PROJECT_DIR$/Web Files/Visualizations/AttendanceZones.html" />
         <option value="$PROJECT_DIR$/Web Files/Visualizations/College.html" />
+        <option value="$PROJECT_DIR$/Web Files/js/LoadNavBar.js" />
       </list>
     </option>
   </component>
@@ -402,7 +412,13 @@
       <option name="project" value="LOCAL" />
       <updated>1460752157074</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="fixed all the shit">
+      <created>1460752504058</created>
+      <option name="number" value="00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1460752504058</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -526,32 +542,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Web Files/js/LoadNavBar.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="47" column="11" selection-start-line="47" selection-start-column="11" selection-end-line="47" selection-end-column="11" />
-          <folding>
-            <marker date="1460750778000" expanded="true" signature="40:2259" placeholder="..." />
-            <marker date="1460750778000" expanded="true" signature="62:116" placeholder="..." />
-            <marker date="1460750778000" expanded="true" signature="154:2246" placeholder="..." />
-            <marker date="1460750778000" expanded="true" signature="211:282" placeholder="..." />
-            <marker date="1460750778000" expanded="true" signature="294:2234" placeholder="..." />
-            <marker date="1460750778000" expanded="true" signature="363:2026" placeholder="..." />
-            <marker date="1460750778000" expanded="true" signature="482:2011" placeholder="..." />
-            <marker date="1460750778000" expanded="true" signature="500:897" placeholder="..." />
-            <marker date="1460750778000" expanded="true" signature="599:878" placeholder="..." />
-            <marker date="1460750778000" expanded="true" signature="915:1424" placeholder="..." />
-            <marker date="1460750778000" expanded="true" signature="1016:1405" placeholder="..." />
-            <marker date="1460750778000" expanded="true" signature="1442:1674" placeholder="..." />
-            <marker date="1460750778000" expanded="true" signature="1544:1655" placeholder="..." />
-            <marker date="1460750778000" expanded="true" signature="1692:1994" placeholder="..." />
-            <marker date="1460750778000" expanded="true" signature="1788:1975" placeholder="..." />
-            <marker date="1460750778000" expanded="true" signature="2302:2396" placeholder="..." />
-            <marker date="1460750778000" expanded="true" signature="2428:2483" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Web Files/Visualizations/LoadNavBar.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -583,14 +573,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Web Files/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-66.916664">
-          <caret line="142" column="7" selection-start-line="142" selection-start-column="7" selection-end-line="142" selection-end-column="7" />
           <folding />
         </state>
       </provider>
@@ -635,14 +617,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Web Files/Visualizations/APIB.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-8.75">
-          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Web Files/Visualizations/AttendanceZones.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-6.25">
@@ -677,8 +651,50 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Web Files/Visualizations/TestScoresInDepth.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.2154047">
+        <state vertical-scroll-proportion="-6.875">
           <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Web Files/Visualizations/APIB.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-17.5">
+          <caret line="28" column="91" selection-start-line="28" selection-start-column="91" selection-end-line="28" selection-end-column="91" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Web Files/js/LoadNavBar.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="25" column="89" selection-start-line="25" selection-start-column="89" selection-end-line="25" selection-end-column="89" />
+          <folding>
+            <marker date="1460752750000" expanded="true" signature="40:2248" placeholder="..." />
+            <marker date="1460752750000" expanded="true" signature="62:116" placeholder="..." />
+            <marker date="1460752750000" expanded="true" signature="154:2235" placeholder="..." />
+            <marker date="1460752750000" expanded="true" signature="200:271" placeholder="..." />
+            <marker date="1460752750000" expanded="true" signature="283:2223" placeholder="..." />
+            <marker date="1460752750000" expanded="true" signature="352:2015" placeholder="..." />
+            <marker date="1460752750000" expanded="true" signature="471:2000" placeholder="..." />
+            <marker date="1460752750000" expanded="true" signature="489:886" placeholder="..." />
+            <marker date="1460752750000" expanded="true" signature="588:867" placeholder="..." />
+            <marker date="1460752750000" expanded="true" signature="904:1413" placeholder="..." />
+            <marker date="1460752750000" expanded="true" signature="1005:1394" placeholder="..." />
+            <marker date="1460752750000" expanded="true" signature="1431:1663" placeholder="..." />
+            <marker date="1460752750000" expanded="true" signature="1533:1644" placeholder="..." />
+            <marker date="1460752750000" expanded="true" signature="1681:1983" placeholder="..." />
+            <marker date="1460752750000" expanded="true" signature="1777:1964" placeholder="..." />
+            <marker date="1460752750000" expanded="true" signature="2291:2385" placeholder="..." />
+            <marker date="1460752750000" expanded="true" signature="2417:2472" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Web Files/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.2154047">
+          <caret line="11" column="93" selection-start-line="11" selection-start-column="93" selection-end-line="11" selection-end-column="93" />
           <folding />
         </state>
       </provider>
