@@ -1,0 +1,16 @@
+body { 
+    padding-top: 80px; 
+}
+
+#Bio a, #contactInfo a {
+    color: #ADD8E6;
+}
+
+
+#Bio {
+    margin-left: 25%;
+}
+
+#contactInfo {
+    margin-right: 25%;
+}
