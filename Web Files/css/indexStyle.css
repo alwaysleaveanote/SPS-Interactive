@@ -36,10 +36,9 @@ body {
 
 #explore .explorePortal a {
     margin-top: 30px;
-    height: 90pt;
-    padding-top: 3em;
-    /*border: 1px solid #7d7a79;*/
-    display: block;
+    /*height: 90pt;*/
+    /*padding-top: 3em;*/
+    /*display: block;*/
 }
 #explore li {
     border-radius: 25px;
