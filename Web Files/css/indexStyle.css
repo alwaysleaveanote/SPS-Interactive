@@ -34,12 +34,14 @@ body {
     color: #474545;
 }
 
+/*"Learn more" buttons*/
 #explore .explorePortal a {
     margin-top: 30px;
     /*height: 90pt;*/
     /*padding-top: 3em;*/
     /*display: block;*/
 }
+
 #explore li {
     border-radius: 25px;
     margin: 1em;
@@ -68,7 +70,7 @@ body {
 #description {
     padding-top: 3em;
 }
-.navbar-brand {
-    margin-bottom: 20px;
-}
 
+.navbar-brand > img {
+    height: 300%;
+}
