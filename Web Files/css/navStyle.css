@@ -3,6 +3,7 @@ header .navbar-fixed-top {
     background: rgba(15,73,161,0.99);
     border-bottom: 1px solid #6D6D6D;
     margin-bottom: 75px;
+    vertical-align: center;
 }
 
 #title h1 {
@@ -136,9 +137,18 @@ height: 4em;
 .footer {
     background: rgba(15,73,161,0.99);
     color: white;
+    text-align: center;
+}
+.footer > a {
+    color: white;
+    vertical-align: center;
 }
 #hidden{
     color: white;
+}
+.navbar-brand {
+    height: 100px;
+    width: 200px;
 }
 
 
