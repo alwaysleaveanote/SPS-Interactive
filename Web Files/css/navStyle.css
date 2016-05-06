@@ -146,11 +146,10 @@ height: 4em;
 #hidden{
     color: white;
 }
-.navbar-brand {
-    height: 100px;
-    width: 200px;
+/*.navbar-brand > img {
+    height: 150%;
 }
-
+*/
 
 
 
