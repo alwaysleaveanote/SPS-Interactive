@@ -1,22 +1,27 @@
 body { 
-    padding-top: 186px;
+    padding-top: 100px;
     margin-bottom: 60px;
 }
 
 #description {
-    margin: 0 25%;
-    margin-bottom: 75px;
     color: #73706f;
     text-align: center;
     font-family: "Roboto", sans-serif;
-    font-size: 26px;
     font-weight: 300;
-    line-height: 150%;
     letter-spacing: 1px;
+    font-size: 20px;
+    margin-left: 0;
+    margin-top: 40%;
+    margin-right: 0;
+    margin-bottom: auto;
+    vertical-align: middle;
+    text-align: left;
+    margin-right: 2em;
 }
 
 #explore {
     text-align: center;
+    margin-top: 2em;
     /*margin: 0 10%;*/
 }
 
@@ -29,7 +34,7 @@ body {
 
 #explore .explorePortal p {
     font-family: "Roboto", sans-serif;
-    font-size: 16px;
+    font-size: 12px;
     font-weight: 400;
     color: #474545;
 }
@@ -50,7 +55,7 @@ body {
 }
 
 .carousel {
-    width: 50%;
+    width: 75%;
     margin: auto;
 }
 
@@ -63,12 +68,8 @@ body {
 }
 
 .carousel-caption {
-    font-size: 20px;
+    font-size: 15px;
     background-color: rgba(15,73,161,0.5);
-}
-
-#description {
-    padding-top: 3em;
 }
 
 .navbar-brand > img {

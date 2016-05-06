@@ -1,6 +1,6 @@
 header .navbar-fixed-top {
     text-align: center;
-    background: rgba(15,73,161,0.99);
+    background: rgba(15,73,125,0.99);
     border-bottom: 1px solid #6D6D6D;
     margin-bottom: 75px;
     vertical-align: center;
@@ -20,10 +20,12 @@ a {
     text-decoration: none !important;
 }
 
+
 ul {
     list-style-type: none;
     margin: 0;
 }
+
 
 
 nav {
@@ -46,6 +48,9 @@ nav ul li {
     color: #333333;
     float: left;
 }
+nav ul li a:hover {
+    color: orange;
+}
 
 nav ul li p {
     margin-bottom: 0;
@@ -59,10 +64,6 @@ nav ul li a {
 nav ul ul {
     display: none;
     position: absolute;
-}
-
-nav ul li:hover {
-    color: #1570a6;
 }
 
 nav ul li:hover > ul {
@@ -84,7 +85,7 @@ nav ul ul li {
     text-align: left;
     float: none;
     position: relative;
-     background: rgba(15,73,161,0.99);
+     background: rgba(15,73,125,0.99);
 }
 
 nav ul ul ul {
@@ -102,8 +103,11 @@ nav ul ul li:hover > ul {
 
 nav ul ul ul a {
     display: block;
-     background: rgba(15,73,161,0.99);
+     background: rgba(15,73,125,0.99);
      color: white;
+}
+nav ul ul ul a:hover {
+    color: orange;
 }
 
 
@@ -126,7 +130,6 @@ html, body {
 height: 100%;
 }
 .wrapper {
-min-height: 100%;
 height: auto !important;
 height: 100%;
 margin: 0 auto -4em;
@@ -135,7 +138,7 @@ margin: 0 auto -4em;
 height: 4em;
 }
 .footer {
-    background: rgba(15,73,161,0.99);
+    background: rgba(15,73,125,0.99);
     color: white;
     text-align: center;
 }

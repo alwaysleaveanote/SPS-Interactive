@@ -15,6 +15,8 @@
 <body>
 
     <main>
+        <div class = "row">
+        <div class = "col-md-8">
         <div id="myCarousel" class="carousel slide" data-ride="carousel">
           <!-- Indicators -->
           <ol class="carousel-indicators">
@@ -69,11 +71,17 @@
         <span class="sr-only">Next</span>
     </a>
 </div>
-<div id="description">
-    <p>Every parent should have an easy way to understand their school district.
-        SPSInteractive is designed to open the Seattle Public School System through intuitive, comparative, and, above all,
-        interactive visualizations</p>
+</div>
+<div class = "col-md-4">
+    <div id="description">
+        <p>Every parent should have an easy way to understand their school district.
+            SPSInteractive is designed to open the Seattle Public School System through intuitive, comparative, and, above all,
+            interactive visualizations
+        </p>
     </div>
+</div>
+</div>
+<div class = "row">
     <div id="explore">
         <div id="exploreTitle">
             <a href="Explore.html"><p>Explore</p></a>
@@ -82,14 +90,14 @@
             <ul>
                 <li>
                     <img class="img-circle" src="./images/standardized-tests.jpg" width="100"/>
-                    <h3>Standardized Test Scores</h3>
+                    <h4>Standardized Test Scores</h4>
                     <p>How well is your school performing in Standardized tests compared to other Seattle schools? View and explore
                         tests scores across all of the Seattle Public School District.</p>
                     <a class="btn btn-primary btn-lg" href="Visualizations/TestScoresInDepth.html">Learn more</a>
                 </li>
                 <li>
                     <img class="img-circle" src="./images/sbound.png" width="100"/>
-                    <h3>School Boundaries</h3>
+                    <h4>School Boundaries</h4>
                     <p>View the school zones within the Seattle Public School District and view which elementary, middle, or high school students are sent to based on where they live within the Seattle area. </p>
                     <a class="btn btn-primary btn-lg" href="Visualizations/AttendanceZones.html">Learn more</a>
                 </li>
@@ -100,14 +108,14 @@
             <ul>
                 <li>
                     <img class="img-circle" src="./images/class_size.jpg" width="100" height="100"/>
-                    <h3>School Sizes</h3>
+                    <h4>School Sizes</h4>
                     <p>These visualizations aim to show the average class size of each school in the Seattle Public School District. Class size can help determine a student's ability to communicate with their teacher. </p>
                     <a class="btn btn-primary btn-lg" href="Visualizations/SchoolSize.html">Learn more</a>
 
                 </li> 
                 <li>
                     <img class="img-circle" src="./images/nbsvcs.jpg" width="100" height="100"/>
-                    <h3>Nearby Services</h3>
+                    <h4>Nearby Services</h4>
                     <p>This tool is meant to highlight the many public spaces and freely accessible services, including parks, community centers, and libraries that are within walking distance of schools. </p>
                     <a class="btn btn-primary btn-lg" href="Visualizations/POI.html">Learn more</a>
                 </li>
@@ -118,20 +126,21 @@
             <ul>
                 <li>
                     <img class="img-circle" src="./images/demo.png" width="100" height="100"/>
-                    <h3>Demographics</h3>
+                    <h4>Demographics</h4>
                     <p>This tool is meant to show the demographic breakdown of each school in the Seattle area. Click to explore the breakdown of each Seattle public school by race and ethnicity. </p>
                     <a class="btn btn-primary btn-lg" href="Visualizations/Demographics.html">Learn more</a>
                 </li>
                 <li>
                     <img class="img-circle" src="./images/ell.jpg" width="100" height="100"/>
-                    <h3>English Language Learners</h3>
-                    <p>This visualization shows how many students are enrolled as "English Language Learners" or "English as a Second Language" students. </p>
+                    <h4>English Language Learners</h4>
+                    <p>This visualization shows how many students are currently enrolled in a Seattle school as "English Language Learners" or "English as a Second Language" students. </p>
                     <a class="btn btn-primary btn-lg" href="Visualizations/ELL.html">Learn more</a>
                 </li>
             </ul>
         </div>
         <p style="float:right;padding:10px 15px"><a href="Explore.html">More...</a></p>
     </div>
+</div>
 </main>
 </body>
 <script src = "http://code.jquery.com/jquery-2.1.1.js"> </script>

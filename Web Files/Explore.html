@@ -5,8 +5,8 @@
         <title>SPSInteractive</title>
         <link rel = "stylesheet" href = "http://netdna.bootstrapcdn.com/bootstrap/3.0.3/css/bootstrap.min.css">
         <link href='http://fonts.googleapis.com/css?family=Roboto:400,300,100,500,700,900' rel='stylesheet' type='text/css'>
-        <link rel="stylesheet" href="css/navStyle.css"/>
-        <link rel="stylesheet" href="css/exploreStyle.css"/>
+        <link rel="stylesheet" href="./css/navStyle.css"/>
+        <link rel="stylesheet" href="./css/exploreStyle.css"/>
 
         <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
@@ -15,50 +15,68 @@
 
 
     <body>
-        <div id="description">
-            <p>SPSV allows you to learn more about the Seattle Public School District by comparing schools
-            side by side in a number of different areas.</p>
-        </div>
+        <main>
+            <div id="description">
+                <p>SPSV allows you to learn more about the Seattle Public School District by comparing schools
+                side by side in a number of different areas.</p>
+            </div>
 
-        <div id="topics">
-            <div class="col-md-3" id="aboutSchool">
-                <div class="colTitle">
-                    <p>About the Schools</p>
-                </div>
-                <ul>
-                    <li><a href="Visualizations/SchoolSize.html"><p>School Size</p></a></li>
-                    <li><a href="Visualizations/APIB.html"><p>AP/IB Courses Offered</p></a></li>
-                    <li><a href="Visualizations/AttendanceZones.html"><p>School Boundaries</p></a></li>
-                </ul>
+            <div id="topics">
+                
+                    <div class="colTitle">
+                        <p>About the Schools</p>
+                    </div>
+                    <div class = "row">
+                        <div class="col-md-3" id="schoolSize">
+                            <a href="Visualizations/SchoolSize.html"><p>School Size</p></a>
+                        </div>
+                        <div class="col-md-3" id="coursesOffered">
+                            <a href="Visualizations/APIB.html"><p>AP/IB Courses Offered</p></a>
+                        </div>
+                        <div class="col-md-3" id="schoolBoundaries">
+                            <a href="Visualizations/AttendanceZones.html"><p>School Boundaries</p></a>
+                        </div>
+                    </div>
+
+                
+                    <div class="colTitle">
+                        <p>About the Students</p>
+                    </div>
+                    <div class = "row">
+                        <div class="col-md-3" id="college">
+                            <a href="Visualizations/College.html"><p>Grads Enrolled in College</p></a>
+                        </div>
+                        <div class="col-md-3" id="demographics">
+                            <a href="Visualizations/Demographics.html"><p>Demographics</p></a>
+                        </div>
+                        <div class="col-md-3" id="ELL">
+                            <a href="Visualizations/ELL.html"><p>English Language Learners</p></a>
+                        </div>
+                        <div class="col-md-3" id="FORPL">
+                            <a href="Visualizations/FRPL.html"><p>Free or Reduced Price Lunch</p></a>
+                        </div>
+                    </div>
+                    <div class="colTitle">
+                        <p>About the Academics</p>
+                    </div>
+                    <div class = "row">
+                        <div class="col-md-3" id="testScores">
+                            <a href="Visualizations/TestScoresInDepth.html"><p>Test Scores</p></a>
+                        </div>
+                    </div>
+                    <div class="colTitle">
+                        <p>Miscellaneous</p>
+                    </div>
+                    <div class = "row">
+                        <div class="col-md-3" id="nearbyServices">
+                            <a href="Visualizations/POI.html"><p>Nearby Services</p></a>
+                        </div>
+                        <div class="col-md-3" id="housingPrices">
+                            <a href="Visualizations/HomePrices.html"><p>Housing Prices</p></a>
+                        </div>
+                    </div>
             </div>
-            <div class="col-md-3" id="aboutStudents">
-                <div class="colTitle">
-                    <p>About the Students</p>
-                </div>
-                <ul>
-                    <li><a href="Visualizations/College.html"><p>Grads Enrolled in College</p></a></li>
-                    <li><a href="Visualizations/Demographics.html"><p>Demographics</p></a></li>
-                    <li><a href="Visualizations/ELL.html"><p>English Language Learners</p></a></li>
-                    <li><a href="Visualizations/FRPL.html"><p>Students on Free or Reduced Price Lunch</p></a></li>
-                </ul>
-            </div>
-            <div class="col-md-3" id="academics">
-                <div class="colTitle">
-                    <p>About the Academics</p>
-                </div>
-                <ul>
-                    <li><a href="Visualizations/TestScoresInDepth.html"><p>Test Scores</p></a></li>
-                </ul>
-            </div> <div class="col-md-3" id="misc">
-                <div class="colTitle">
-                    <p>Miscellaneous</p>
-                </div>
-                <ul>
-                    <li><a href="Visualizations/POI.html"><p>Nearby Services</p></a></li>
-                    <li><a href="Visualizations/HomePrices.html"><p>Housing Prices</p></a></li>
-                </ul>
-            </div>
-        </div>
+        </main>
 
     </body>
     <script src = "http://code.jquery.com/jquery-2.1.1.js"> </script>

@@ -1,5 +1,5 @@
 body { 
-    padding-top: 186px;
+    padding-top: 100px;
 }
 
 #description {
@@ -16,10 +16,17 @@ body {
 }
 
 #topics .colTitle {
+    background: rgba(15,73,125,0.99);
     margin-bottom: 30px;
     font-family: "Roboto", sans-serif;
     font-size: 18px;
     font-weight: 400;
+    margin: auto;
+    width: 90%;
+    text-align: left;
+    padding-left: 1em;
+    color: orange;
+    font-size: 24px;
 }
 
 #topics ul {
@@ -36,4 +43,33 @@ body {
     font-size: 16px;
     font-weight: 300;
 }
+
+.col-md-3 {
+    border: 1px solid;
+    border-radius: 5px;
+    margin: 1em;
+    margin-left: 6em;
+    margin-right: 2em;
+    height: 125px;
+    width: 10%;
+    text-align: center;
+    background: rgba(15,73,125,0.99);
+}
+.col-md-3:hover {
+    box-shadow: 0 0 5px #000;
+    text-transform: scale(1.2);
+}
+.col-md-3 > a {
+        vertical-align: middle;
+        color: white;
+        font-size: 18px;
+        line-height: 125px;
+        font-weight: bold;
+        padding-top: 50%;
+}
+.col-md-3 > a:hover {
+        color: orange;
+}
+
+
 
