@@ -1,16 +1,10 @@
 body { 
     padding-top: 186px;
+    width: 100%;
 }
 
-#Bio a, #contactInfo a {
-    color: #ADD8E6;
-}
-
-
-#Bio {
-    margin-left: 25%;
-}
-
-#contactInfo {
-    margin-right: 25%;
+.img-center {
+	margin: 0 auto;
+	width: 200px;
+	height: 200px;
 }
