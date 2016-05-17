@@ -26,7 +26,9 @@ ul {
     margin: 0;
 }
 
-
+ nav ul li a p:hover {
+    color: orange;
+}
 
 nav {
     position: relative;
@@ -68,6 +70,7 @@ nav ul ul {
 
 nav ul li:hover > ul {
     display: block;
+    color: orange;
 }
 
 nav ul ul {
@@ -99,6 +102,7 @@ nav ul ul li:hover > ul {
     border-top: solid 1px #000000;
     margin-left: 94%;
     margin-top: -30pt;
+    color: orange;
 }
 
 nav ul ul ul a {
@@ -141,16 +145,20 @@ height: 4em;
     background: rgba(15,73,125,0.99);
     color: white;
     text-align: center;
+    line-height: 50px;
 }
 .footer > a {
     color: white;
     vertical-align: center;
 }
+.footer a span:hover {
+    color: orange;
+}
 #hidden{
     color: white;
 }
 .navbar-brand > img {
-    height: 250%;
+    height: 50px !important;
 }
 
 

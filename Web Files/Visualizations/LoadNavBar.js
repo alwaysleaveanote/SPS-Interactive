@@ -51,9 +51,9 @@ var footerText = "<div class='wrapper'>\n\
             <div class='push'></div>\n\
         </div>\n\
         <div class='footer'>\n\
-            SPSInteractive&nbsp;&nbsp;&nbsp;&nbsp;\n\
-            \t\t\t<a href='../FAQ.html'>FAQs</a>&nbsp;&nbsp;&nbsp;&nbsp;\n\
-\t\t\t<a href='../ContactMe.html'>Contact Us</a>\n\
+            SPSInteractive:&nbsp;&nbsp;&nbsp;&nbsp;\n\
+            \t\t\t<a href='../FAQ.html'><span>FAQs</span></a>&nbsp;&nbsp;|&nbsp;&nbsp;\n\
+\t\t\t<a href='../ContactMe.html'><span>Contact Us</span></a>\n\
         </div>";
 
 $(document).ready(function() {
