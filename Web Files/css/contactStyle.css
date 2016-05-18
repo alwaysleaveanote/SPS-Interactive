@@ -1,5 +1,5 @@
 body { 
-    padding-top: 100px;
+    padding-top: 50px;
     width: 100%;
 }
 
@@ -7,4 +7,13 @@ body {
 	margin: 0 auto;
 	width: 200px;
 	height: 200px;
+}
+
+.container li {
+	font-size: 14pt;
+	text-decoration: underline;
+	line-height: 1.5;
+}
+.container li a:hover  {
+	color: orange;
 }
