@@ -10,13 +10,10 @@ body {
     font-weight: 300;
     letter-spacing: 1px;
     font-size: 20px;
-    margin-left: 0;
-    margin-top: 30%;
-    margin-right: 0;
-    margin-bottom: auto;
-    vertical-align: middle;
-    text-align: left;
-    margin-right: 2em;
+    margin-left: 25%;
+    margin-top: 1em;
+    margin-right: 25%;
+    text-align: center;
 }
 
 #explore {
@@ -55,7 +52,7 @@ body {
 }
 
 .carousel {
-    width: 75%;
+    width: 80%;
     margin: auto;
 }
 
@@ -80,6 +77,6 @@ body {
 }
 .carousel-inner > .item > img,
 .carousel-inner > .item > a > img {
-  max-height: 500px;    /* Set slide height here */
+  max-height: 450px;    /* Set slide height here */
 
 }

@@ -60,3 +60,15 @@ body {
 .navbar-brand > img {
     height: 250%;
 }
+#controls {
+    margin: 0 10%;
+    font-size: 12pt;
+    margin-bottom: 1em;
+    background-color: rgb(255,255,224);
+    padding: 0.5em;
+    box-shadow: 2px 2px 2px grey;
+    padding-right: 0;
+}
+#controls > span {
+    
+}
