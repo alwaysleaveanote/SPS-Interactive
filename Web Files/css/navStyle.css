@@ -1,9 +1,10 @@
 header .navbar-fixed-top {
     text-align: center;
-    background: rgba(15,73,125,0.99);
+    background-color: rgba(74,128,255,1.0);
     border-bottom: 1px solid #6D6D6D;
     margin-bottom: 75px;
     vertical-align: center;
+    height: 92px;
 }
 
 #title h1 {
@@ -91,7 +92,7 @@ nav ul ul li {
     text-align: left;
     float: none;
     position: relative;
-     background: rgba(15,73,125,0.99);
+    background-color: rgba(9,61,181,.8);
 }
 
 nav ul ul ul {
@@ -110,7 +111,6 @@ nav ul ul li:hover > ul {
 
 nav ul ul ul a {
     display: block;
-     background: rgba(15,73,125,0.99);
      color: white;
 }
 nav ul ul ul a:hover {
@@ -145,7 +145,7 @@ margin: 0 auto -4em;
 height: 4em;
 }
 .footer {
-    background: rgba(15,73,125,0.99);
+    background-color: rgba(74,128,255,1.0);
     color: white;
     text-align: center;
     line-height: 50px;
@@ -159,10 +159,13 @@ height: 4em;
 }
 #hidden{
     color: white;
+    height: 0;
 }
 .navbar-brand > img {
-    height: 50px !important;
+    height: 70px !important;
+    margin-left: 125%;
 }
+
 
 
 
