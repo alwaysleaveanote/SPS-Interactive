@@ -11,7 +11,7 @@ var navBarText = "<header>\n\
 \t\t<ul>\n\
 \t\t\t<li><a href='index.html'><p>Home</p></a></li>\n\
 \t\t\t<li><a href='Explore.html'><p>Explore our Visualizations <span class='glyphicon glyphicon-chevron-down'></span></p></a>\n\
-\t\t\t\t<ul>\n\
+\t\t\t\t<ul class = 'sections'>\n\
 \t\t\t\t\t<li><p>About the School <span class='glyphicon glyphicon-chevron-right'></span></p>\n\
 \t\t\t\t\t\t<ul>\n\
 \t\t\t\t\t\t\t<li><a href='Visualizations/SchoolSize.html'>School Size</a></li>\n\
@@ -40,7 +40,7 @@ var navBarText = "<header>\n\
 \t\t\t\t\t</li>\n\
 \t\t\t\t</ul>\n\
 \t\t\t</li>\n\
-\t\t\t<li><a href='Visualizations/MYO.html'><p>Compare Your Own Visualizations</p></a></li>\n\
+\t\t\t<li><a href='Visualizations/MYO.html'><p>Custom Visualizations</p></a></li>\n\
 \t\t\t<li><a href='DownloadData.html'><p>Download The Data</p></a></li>\n\
 \t\t</ul>\n\
 \t</nav>\n\

@@ -47,7 +47,7 @@ nav ul {
     display: inline-block;
 }
 
-nav ul li {
+nav > ul > li {
     padding: 10px 80px;
     padding-bottom: 20px;
     padding-left: 0;
@@ -86,13 +86,12 @@ nav ul ul {
 }
 
 nav ul ul li {
-    padding: 12px 10px;
+    padding: 12px 14px;
     border-left: 1px solid #6D6D6D;
-    border-right: 1px solid #6D6D6D;
     text-align: left;
     float: none;
     position: relative;
-    background-color: rgba(9,61,181,.8);
+    background-color: rgba(74,128,255,1.0);
 }
 
 nav ul ul ul {
@@ -163,8 +162,13 @@ height: 4em;
 }
 .navbar-brand > img {
     height: 70px !important;
-    margin-left: 125%;
+    margin-left: 50%;
 }
+.sections {
+    padding-top: 15px;
+    background-color: rgba(74,128,255,1.0);
+}
+
 
 
 
