@@ -14,6 +14,7 @@ var navBarText = "<header>\n\
 \t\t\t\t<ul class = 'sections'>\n\
 \t\t\t\t\t<li><p>About the School <span class='glyphicon glyphicon-chevron-right'></span></p>\n\
 \t\t\t\t\t\t<ul>\n\
+\t\t\t\t\t\t\t<li><a href='Visualizations/GeneralInfo.html'>Quick Facts</a></li>\n\
 \t\t\t\t\t\t\t<li><a href='Visualizations/SchoolSize.html'>School Size</a></li>\n\
 \t\t\t\t\t\t\t<li><a href='Visualizations/APIB.html'>AP & IB Courses</a></li>\n\
 \t\t\t\t\t\t\t<li><a href='Visualizations/AttendanceZones.html'>School Boundaries</a></li>\n\

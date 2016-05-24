@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title>SPSInteractive</title>
+    <link rel = "stylesheet" href = "http://netdna.bootstrapcdn.com/bootstrap/3.0.3/css/bootstrap.min.css">
+    <link href='http://fonts.googleapis.com/css?family=Roboto:400,300,100,500,700,900' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="../css/navStyle.css"/>
+    <link rel="stylesheet" href="visStyle.css"/>
+
+</head>
+<body>
+
+
+<main>
+
+    <div id="visTitle">
+        <p>Quick Facts</p>
+    </div>
+    <br/>
+
+    <div class="dropClick" id = "descriptionTitle">
+        <p>Overview  <span class="descrArrow descrArrowDown glyphicon glyphicon-chevron-down"></span>
+            <span class="descrArrow descrArrowRight glyphicon glyphicon-chevron-right"></span></p>        </div>
+
+    <div id="visDescription">
+        <p>Quick Facts about every school in the Seattle Public School District. This visualization shows some general information of each school such as the name, enrollment, grade range, class size, and average test scores. Be sure to check out our other visualizations for more in-depth analysis of each of this schools!  </p>
+    </div>
+    <br/>
+    <div id="controls">
+        <strong>Helpful Tips:</strong> Ctrl (command) click to select multiple elements. Type school name into the bar to search for a school. Use the dropdown menu to filter by grade.
+    </div>
+
+    <div id="vis">
+        <script type='text/javascript' src='https://public.tableau.com/javascripts/api/viz_v1.js'></script><div class='tableauPlaceholder' style='width: 1104px; height: 469px;'><noscript><a href='#'><img alt='Dashboard 11 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;De&#47;DesktopOfficial_0&#47;Dashboard11&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz' width='1104' height='469' style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='site_root' value='' /><param name='name' value='DesktopOfficial_0&#47;Dashboard11' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;De&#47;DesktopOfficial_0&#47;Dashboard11&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='showTabs' value='y' /></object></div>
+    </div>
+
+
+</main>
+
+</body>
+<script src = "http://code.jquery.com/jquery-2.1.1.js"> </script>
+<script type='text/javascript' src='https://public.tableau.com/javascripts/api/viz_v1.js'></script>
+<script src="addFunctions.js"></script>
+<script src="LoadNavBar.js"></script>
+<script src="removeVisMobile.js"></script>
+</html>
